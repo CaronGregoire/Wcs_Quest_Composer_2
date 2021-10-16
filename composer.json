@@ -1,0 +1,15 @@
+{
+    "name": "greg/composer_2",
+    "authors": [
+        {
+            "name": "CaronGregoire",
+            "email": "gregoirecaron33@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/Wcs/"
+        }
+    }
+}
