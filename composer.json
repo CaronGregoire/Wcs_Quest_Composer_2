@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Hello\\": "src/Wcs/"
+            "App\\": "src/Wcs/"
         }
     }
 }

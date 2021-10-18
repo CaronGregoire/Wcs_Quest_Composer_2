@@ -1,5 +1,5 @@
 <?php
-namespace Wcs;
+namespace App\Wcs;
 class Hello
 {
     private string $talk = 'Hello World !';
